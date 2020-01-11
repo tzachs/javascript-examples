@@ -1,0 +1,14 @@
+.splitter {
+    height:2vh;
+    background-color:gray;
+}
+
+.top {
+    height: 49vh;    
+    background-color: red;
+}
+
+.bottom {
+    height: 49vh;    
+    background-color: blue;
+}
